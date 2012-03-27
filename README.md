@@ -11,6 +11,7 @@ Readability bookmarklet. It is not an alternative to the [Readability](http://ww
 web service (which is awesome, and you should totally sign up for).
 
 Various project goals:
+
 * Better typography
 * Smaller script and asset sizes
 * Single asset oriented
@@ -19,4 +20,4 @@ Various project goals:
 * Progressive enhancement oriented (with a JavaScript dependency, of course)
 * Additions and removals of magic
 
-This is a spare time project that's intended for personal use.
+This is a spare time project intended for personal use.
